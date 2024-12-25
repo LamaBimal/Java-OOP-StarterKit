@@ -15,4 +15,4 @@ Welcome to the **Java OOP StarterKit**! 🎉 This repository is designed for beg
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/lamabimal/Java-OOP-StarterKit.git
+   git clone https://github.com/LamaBimal/Java-OOP-StarterKit.git
