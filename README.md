@@ -1,6 +1,6 @@
-# Java OOP StarterKit
+# Java OOP Fundamentals
 
-Welcome to the **Java OOP StarterKit**! 🎉 This repository is designed for beginners who want to learn the fundamentals of Object-Oriented Programming (OOP) in Java.
+Welcome to the **Java OOP Fundamentals**! 🎉 This repository is designed for beginners who want to learn the fundamentals of Object-Oriented Programming (OOP) in Java.
 
 ## 📝 What You'll Learn
 - **Encapsulation**: How to protect data and expose behavior.
